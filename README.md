@@ -3,7 +3,7 @@ Create a MEAN app with Angular and Docker Compose - https://scotch.io/tutorials/
 
 
 Followed steps but used express generator for express-server creation
-    * $ express --no-view express-server
+express --no-view express-server
 
 Stopped @ https://scotch.io/tutorials/create-a-mean-app-with-angular-2-and-docker-compose#toc-mongodb-container
 
